@@ -5,11 +5,11 @@
 - [3. Ưu điểm của mã nguồn mở](#3-ưu-điểm-của-mã-nguồn-mở)
 - [4. Nhược điểm](#4-nhược-điểm)
 - [5. Một số mã nguồn mở phổ biến](#5-một-số-mã-nguồn-mở-phổ-biến)
-      - [1.1 WordPress](#11-wordpress)
-      - [1.2 Joomla](#12-joomla)
-      - [1.3 Drupal](#13-drupal)
-      - [1.4 Magento](#14-magento)
-      - [1.5 OpenCart](#15-opencart)
+    - [1.1 WordPress](#11-wordpress)
+    - [1.2 Joomla](#12-joomla)
+    - [1.3 Drupal](#13-drupal)
+    - [1.4 Magento](#14-magento)
+    - [1.5 OpenCart](#15-opencart)
 - [6. Tài liệu tham khảo](#6-tài-liệu-tham-khảo)
 
 ## 1. Mã nguồn mở là gì?
