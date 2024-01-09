@@ -1,4 +1,4 @@
-## Mụ lục
+## Mục lục
 - [Mụ lục](#mụ-lục)
 - [1. Mã nguồn mở là gì?](#1-mã-nguồn-mở-là-gì)
 - [2. Lợi ích của mã nguồn mở](#2-lợi-ích-của-mã-nguồn-mở)
