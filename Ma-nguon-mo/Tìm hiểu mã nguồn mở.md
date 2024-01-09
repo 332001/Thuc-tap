@@ -36,6 +36,7 @@
 ![Alt text](image.png)
 ##### 1.2 Joomla 
 - là mã nguồn mở xuất hiện đầu tiên trên internet (2005) được sử dụng nhiều nhất vào các website thương mại điện tử, các designer dễ dàng tùy chỉnh website bán hàng bằng cách thêm các module cho nó, Joomla được viết bằng PHP và có thể sử dụng trong môi trường PHP và mysql.
+
 ![Alt text](image-1.png)
 ##### 1.3 Drupal
 - là một trong số nhưng mã nguồn mở lớn vẫn còn được hỗ trợ.
