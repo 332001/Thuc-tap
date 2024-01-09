@@ -4,10 +4,10 @@
 - [2. Ứng dụng của máy ảo](#2-ứng-dụng-của-máy-ảo)
 - [3. Lý do nên sử dụng máy ảo?](#3-lý-do-nên-sử-dụng-máy-ảo)
 - [4. Một số phần mềm máy ảo tốt nhất hiện nay.](#4-một-số-phần-mềm-máy-ảo-tốt-nhất-hiện-nay)
-      - [4.1 Phần mềm Virtual Box](#41-phần-mềm-virtual-box)
-      - [4.2 Phần mềm VMware Workstation](#42-phần-mềm-vmware-workstation)
-      - [4.3 Phần mềm QEMU](#43-phần-mềm-qemu)
-      - [4.4 Boot Camp](#44-boot-camp)
+    - [4.1 Phần mềm Virtual Box](#41-phần-mềm-virtual-box)
+    - [4.2 Phần mềm VMware Workstation](#42-phần-mềm-vmware-workstation)
+    - [4.3 Phần mềm QEMU](#43-phần-mềm-qemu)
+    - [4.4 Boot Camp](#44-boot-camp)
 - [5. Tài liệu tham khảo](#5-tài-liệu-tham-khảo)
 
 ## 1. Máy ảo là gì?
