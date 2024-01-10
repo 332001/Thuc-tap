@@ -22,14 +22,18 @@
 - Tạo chụp ảnh nhanh
 ## 3. Lý do nên sử dụng máy ảo?
 - Hỗ trợ nhiều môi trường hoạt động
+  
 \- có thể thiết lập nhiều máy ảo trên máy tính thật.
 - Nhanh nhẹn và tốc độ.
+  
 \- Máy ảo làm cho quá trình chạy các kịch bản thử nghiệm nhanh hơn , hiệu quả hơn.
 - Khả nang mở rộng.
+  
 \- Cho phép người dùng thoải mái mở rộng ứng dụng của mình.
 \- Người dùng chỉ cần thêm nhiều máy chủ vật lý hoặc máy ảo hơn để phân khối lượng công việc trên nhiều máy ảo.
 \- Giúp người dùng tăng tính khả dụng và hiệu suất của các ứng dụng của mình trở lên phù hợp hơn.
 - Tính bảo mật cao.
+
 \- Cho phép người dùng dễ dàng chạy các ứng dụng có vấn đề về độ bảo mật và bảo vệ hệ điều hành máy chủ của mình.
 ## 4. Một số phần mềm máy ảo tốt nhất hiện nay.
 ##### 4.1 Phần mềm Virtual Box
