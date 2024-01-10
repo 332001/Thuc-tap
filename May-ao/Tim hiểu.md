@@ -40,24 +40,34 @@
 ## 4. Một số phần mềm máy ảo tốt nhất hiện nay.
 ##### 4.1 Phần mềm Virtual Box
 \- Là một trong những phền mềm máy ảo được đánh giá tốt nhất hiện nay
+
 \- Sở hữu ưu điểm có thể hỗ trợ đa nên tảng bao gồm nền tảng Windows, macOS và LInus.
+
 \- Không có phiên bản thương mai như nhiều phần mềm máy ảo khác hiện nay.
 ![Alt text](image-1.png)
 ##### 4.2 Phần mềm VMware Workstation
 \- Là phần mềm tạo máy ảo nổi tiếng nhận được nhiều đánh giá tích cực từ phía người dùng, có thể cài đặt trên ác nền tảng Windows, Linux.
+
 \- Tương thích với các phần cứng mới nhất
+
 \- Ưu điểm : là có GUI chất lượng cao,trực quan và cực kì dễ sử dụng
+
 \- Nhược điểm : là có sự khác biệt giữa phiên bản miễn phí và phiên bản mua bản quyền do đó việc thiết lập phần mềm VMware Workstation miễn phí không được đầy đủ các tính năng nâng cao.
 ![Alt text](image.png)
 ##### 4.3 Phần mềm QEMU
 \- Là phần mềm máy ảo dược đánh giá cao nhất về chất lượng và giá trị sử dụng.
+
 \- Được dùng nhiều trên hệ điều hành Linux với phiên bản miền phí.
+
 \- Điểm mạnh của phần mềm QEMU là không yêu cầu quản trị viên phải đăng nhập để quản lý và sử dụng.
+
 \- Phần mềm hỗ trợ nhiều tính năng tự động điều chỉnh kích thức của đĩa ảo. 
 ![Alt text](image-2.png)
 ##### 4.4 Boot Camp
 \- Là phần mềm máy ảo được phát triển bởi Apple
+
 \- Phần mềm được cài đặttrên Macbook và được ứng dụng trên hệ điều hành windowws, macOS với phiên bản miễn phí
+
 \- Cho phép người dùng khởi động kép cả 2 hê điều hành một cách hiệu quả là hệ điều hành macOS và Windows.
 
 \- Nhược điểm của phần mềm này là khi mốn di chuyển đổi hệ điều hành thì cần phải khởi động lại máy nếu không thực hiện đúng quy trình đã được quy định thì việc chuyển đổi sẽ thất bại.
