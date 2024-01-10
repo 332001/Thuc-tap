@@ -53,7 +53,6 @@
 \- Là phần mềm máy ảo được phát triển bởi Apple
 \- Phần mềm được cài đặttrên Macbook và được ứng dụng trên hệ điều hành windowws, macOS với phiên bản miễn phí
 \- Cho phép người dùng khởi động kép cả 2 hê điều hành một cách hiệu quả là hệ điều hành macOS và Windows.
-
 \- Nhược điểm của phần mềm này là khi mốn di chuyển đổi hệ điều hành thì cần phải khởi động lại máy nếu không thực hiện đúng quy trình đã được quy định thì việc chuyển đổi sẽ thất bại.
 ![Alt text](image-3.png)
 ## 5. Tài liệu tham khảo
