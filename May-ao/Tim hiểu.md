@@ -30,7 +30,9 @@
 - Khả nang mở rộng.
   
 \- Cho phép người dùng thoải mái mở rộng ứng dụng của mình.
+
 \- Người dùng chỉ cần thêm nhiều máy chủ vật lý hoặc máy ảo hơn để phân khối lượng công việc trên nhiều máy ảo.
+
 \- Giúp người dùng tăng tính khả dụng và hiệu suất của các ứng dụng của mình trở lên phù hợp hơn.
 - Tính bảo mật cao.
 
