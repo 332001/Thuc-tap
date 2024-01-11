@@ -11,21 +11,21 @@
 ## II. Tính năng của Ubuntu
 - Thừa hưởng tính năng của Linux
   
-\- Là phiên bản hệ điều hành phát triển dựa trên Linux.
+  - Là phiên bản hệ điều hành phát triển dựa trên Linux.
 
-\- Có khả năng tùy biến hiệu suất làm việc, tốc độ, cũng như khả năng bảo mật trước sự tấn công của malware hay virus.
+  - Có khả năng tùy biến hiệu suất làm việc, tốc độ, cũng như khả năng bảo mật trước sự tấn công của malware hay virus.
 
 - Hỗ trợ cài đặt cho người dùng
 
-\- Người dùng có thể sử dụng đĩa chạy trực tiếp phiên bản đó của hệ điều hành.
+  - Người dùng có thể sử dụng đĩa chạy trực tiếp phiên bản đó của hệ điều hành.
 
-\- Người dùng sử dụng Windows có thể phân vùng lại đĩa cứng để cài đặt Ubuntu đồng thời cũng có thể gỡ bỏ nó khá dễ dàngngay cả khi đang sử dụng hệ điều hành Windows.
+  - Người dùng sử dụng Windows có thể phân vùng lại đĩa cứng để cài đặt Ubuntu đồng thời cũng có thể gỡ bỏ nó khá dễ dàngngay cả khi đang sử dụng hệ điều hành Windows.
 - Giao diện
   
-\- Ubuntu đang sử dụng giao diện đồ hoạ Unity, giao diện này được thiết kế ra với mục đích tối ưu diện tích màn hình sử dụng, cùng đó là trải nghiệm dùng thân thiện.
+  - Ubuntu đang sử dụng giao diện đồ hoạ Unity, giao diện này được thiết kế ra với mục đích tối ưu diện tích màn hình sử dụng, cùng đó là trải nghiệm dùng thân thiện.
 - Ứng dụng
   
-\- Các phần mềm mã nguồn mở được cài sẵn trên hệ điều hành Ubuntu: trình duyệt Internet Firefox, bộ ứng dụng văn phòng đến từ LibreOffice (phiên bản Ubuntu 10.04 trở đi) hay trình tải file torrent Transmission. Hệ điều hành này có một kho các ứng dụng miễn phí có tên là Ubuntu Software Center.
+  - Các phần mềm mã nguồn mở được cài sẵn trên hệ điều hành Ubuntu: trình duyệt Internet Firefox, bộ ứng dụng văn phòng đến từ LibreOffice (phiên bản Ubuntu 10.04 trở đi) hay trình tải file torrent Transmission. Hệ điều hành này có một kho các ứng dụng miễn phí có tên là Ubuntu Software Center.
 ## III. Ưu  điểm của Ubuntu
 - Ubuntu hoàn toàn miễn phí
 - Hệ điều hành hoàn toàn không có vius
